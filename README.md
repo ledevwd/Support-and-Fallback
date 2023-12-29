@@ -3,7 +3,7 @@
 ## Introdução
 
 Encontre diferentes maneiras de oferecer suporte e alternativas em navegadores para garantir que o seu site ou aplicação web funcione de forma agradável para os usuários finais.
-Os códigos de amostra são comentados e poderão ser originados de fontes de terceiros ou produzidos diretamente pelo proprietário deste repositório ([Leandro do Nascimento](https://github.com/ledevwd))
+Os códigos de amostra são comentados e poderão ser originados de fontes de terceiros ou produzidos diretamente pelo proprietário deste repositório ([Leandro do Nascimento](https://github.com/leensc))
 quando isso ocorrer os créditos serão vinculados aos seus devidos autores.
 
 Embora este repositório esteja mais voltado para tecnologias web, futuramente pode ser adicionadas novas soluções relacionada a outras categorias de tecnologias. Todas as
