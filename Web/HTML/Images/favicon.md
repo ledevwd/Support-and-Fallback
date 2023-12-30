@@ -25,12 +25,12 @@ Favicon (57x57 ou 64x64).
 <link rel="apple-touch-icon" href=".../img/favicon57.png" />
 ```
 ## Favicon antigo
-Favicon (32x32 ou 196x196) e usando o formato .ico.
+Favicon (32x32 ou 196x196) e usando o formato `.ico`.
 ```css
 <link rel="shortcut icon" type="image/x-icon" href=".../img/favicon32.ico" />
 ```
 ## Favicon básico
-Favicon (32x32) e usando o formato .png, .jpg, .svg...
+Favicon (32x32) e usando o formato `.png`, `.jpg`, `.svg`...
 ```css
 <link rel="icon" href=".../img/favicon32.png" />
 ```
